@@ -1,0 +1,37 @@
+                        Calculate the average of array elements
+		
+
+		
+			Find the largest element of an array
+		
+
+		
+			Calculate standard deviation
+		
+
+		
+			Add two matrices
+		
+
+		
+			Multiply two matrices
+		
+
+		
+			Find transpose of a matrix
+		
+
+		
+			Multiply two matrices
+		
+
+		
+			Access elements of an array using pointers
+		
+
+		
+			Swap numbers in the cyclic order using call by reference
+		
+
+		
+			Find the largest number (Dynamic memory allocation is used)
